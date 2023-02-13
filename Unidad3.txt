@@ -1,0 +1,8 @@
+Controlador de Versiones:
+
+Existen muchos controladores de versiones pero hasta el momento el mas utilizado es GIT
+este controlador viene a facilitar el control de codigo sin modificar el original pudiendo haci evitar errores irreversibles
+ademas de poder trabajar en grupos sin alterar el trabajo de los demas.
+esto es muy util cuando se trabaja con un grupo de personas extenso en donde trabajar sobre el mismo codigo puede ser complicado. 
+la ventaja que nos da GIT es que podemos conectarnos a un repositorio remoto en le cual podemos subir actualizacion de codigo y verificar si hay error y poder dar le solucion y ese repositorio remoto se llama GITHUB y no solamente ese se pude utlizar, tambien existen otras altenativas que indentifican a GIT.
+y asi podemos actualizar nuestro codigo en la nube.
