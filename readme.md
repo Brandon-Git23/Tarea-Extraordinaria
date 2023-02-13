@@ -1,7 +1,6 @@
-Unidad 1
-en esta branch estan contenido los temas:
-Sistema Binario
-Logica
-Algoritmos
-Programacion
-Editores de texto.
+Unidad 2
+en este resumen estan contenidos los temas:
+1)Conceptos Basicos para Iniciar a Programar
+2)Tipos de Datos y Operadores
+3)Estructuras de Control
+4)Estructuras de Control de Bucles
