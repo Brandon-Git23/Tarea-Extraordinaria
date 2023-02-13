@@ -1,0 +1,21 @@
+El sistema binario:
+como bien se dice: es un sistema numerico, que se usa principalmente en las computadoras, y sirve como reloj en la maquina y asi poder trabajar a velocidades a las que los humanos no podemos procesar datos.
+
+el sistema binario, en si se podria usar en la vida cotidiana, como por ejemplo en los mecanismo de ciertas herramientas de uso diario o de entretenimiento
+
+
+la logica:
+por lo que yo he estado observando es la misma logica que se utiliza en varias ramas, como principalmente en matematicas, informatica, fisica etc...
+
+es como el sentido comun de los humanos en la cual todos usamos la logica para ver si algo es cierto o en que momento se esta realizando una accion incoherente segun el razonamiento humano, asi mismo analizamos los cosas que realizamos, si tenemos conflictos en el ambito laboaral podemos analizar por que el problema y como sulucionarlo: asi mismo se hace en informatica
+
+
+los algoritmos:
+son un serie de pasos que se le da a la maquina (computadora) para que realice acciones justamente como se le indica para asi llegar a un inicio, siempre siguiendo una secuencia para poder obtener una solucion.
+
+nosotros tambien aplicamos algoritmos en la vida cotidiana en todo momento, hasta en lo mas minimo estamos ralizando algoritmos en cualquier procedimiento o paso con el que necesitemos conseguir un proposito cualquiera desde despertar hasta nuestra rutina diaria. Asi es como se aplican los algoritmos en la vida.
+
+
+
+
+
