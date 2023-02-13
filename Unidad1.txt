@@ -15,7 +15,16 @@ son un serie de pasos que se le da a la maquina (computadora) para que realice a
 
 nosotros tambien aplicamos algoritmos en la vida cotidiana en todo momento, hasta en lo mas minimo estamos ralizando algoritmos en cualquier procedimiento o paso con el que necesitemos conseguir un proposito cualquiera desde despertar hasta nuestra rutina diaria. Asi es como se aplican los algoritmos en la vida.
 
+Programacion:
+s un proceso para crear instrucciones que le indican a la computadora como realizar una tarea cronologicamente en es cual se utiliza la logica humana para asi poder llegar al objetivo planteado.
 
+podemos aplicar la progracion en aspectos como laboral, y al realizar nuestras acciones haciendo mas eficiente el timpo para nosotros.
+en la cual podemos establecer un tiempo definido para hacer las cosas y no traslapar nuestras acciones y poder enforcarnos en lo que estamos realizando.
+
+Editores de texto:
+son los programas que nos permiten crear y editar como su nombre lo indica texto que nos servira para darle ordenes a la maquina y crear solucines a problemas que nos solicitan.
+
+tambien podemos aplicar los editores en nuestras acciones diarias como seria la notas para poder organizarnos de mejor manera y agilizar los compromisos de una forma simple.
 
 
 
