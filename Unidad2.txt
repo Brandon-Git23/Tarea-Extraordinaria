@@ -1,0 +1,20 @@
+1)Conceptos basicos para iniciar a progaramar:
+es fundamental conocer y aplicar los conceptos principales como seria: algoritmos, diagramas de flujo lenguaje de programacion las sintaxis de cada lenguaje por lo regular son similares es su estructura entonces al aprender un lenguaje uno se familiarisa con la mayoria.
+
+en nuestras acciones cotidianas o laborales lo podemos aplicar de una forma ordenada conociendo los pasos que necesitamos para llevar una buena relacion con las personas que nos rodean y entender como piensa cada una de ellas para asi poder comprendernos entre si para lograr un objetivo comun.
+
+2)Tipos de Datos y Operadores:
+hablando de operadores le des prodia llamar tambien como un conjunto de elementos que se definen por sus caracteristicas de valor de cada uno, siempre se requieren para solucionar problemas en los cuales tienen que ser declarados para llegar a la solucion.
+
+
+en si usamos esos tipos de operadores en los cuales tambien se le podria denominar afirmaciones que solemos usar a la hora de expresar un comentario de afirmacion.
+
+3)Estructuras de Control:
+se le puede llamar tambien conjuntos de ordenes o reglas que nos sirve controlar el flujo donde ejecutamos las instrucciones de un programa cada estructura cuenta con una caracteristica similar a los lenguajes de programacion que seria la sintaxis.
+
+todo esto lo aplicamos tambien en nuestras labores como seria el orden de como manejamos las cosas que tenemos para realizar ya que si miramos que algo queda mejor de otra manera la podemos mover sin alterar el proceso y asi agilizar el tiempo y llegar a la meta establecida.
+
+4)Estructuras de control bucles:
+Nos permite realizar lineas de codigo de una forma repetitiva en la cual podemos para hasta que coloquenos una condicion. la mayoria de veces se usa la condicion de verdad o falso para poder llegar al resultado deseado.
+
+muchas veces, o mejor dicho esto lo hacemos en toda nuestra vida cuando vamos de un punto B a un punto A la veces necesarias hasta que hayamos completado nuestro objetivo.
